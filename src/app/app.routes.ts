@@ -15,7 +15,7 @@ import { RolusuarioPlist } from './component/rolusuario/plist-admin-routed/rolus
 import { TipoarticuloPlistAdminRouted } from './component/tipoarticulo/plist-admin-routed/tipoarticulo-plist';
 import { TipoarticuloViewAdminRouted } from './component/tipoarticulo/view-admin-routed/tipoarticulo-view';
 import { JugadorPlisComponent } from './component/jugador/jugadorPlist/jugador-plist';
-import { JugadorViewRouted } from './component/jugador/view-routed/jugador-view';
+import { JugadorViewRouted } from './component/jugador/view-admin-routed/jugador-view';
 import { LigaPlistAdminRouted } from './component/liga/plist-admin-routed/liga-plist';
 import { NoticiaPlistAdminRouted } from './component/noticia/plist-admin-routed/noticia-plist';
 import { ClubPlistAdminRouted } from './component/club/plist-admin-routed/club-plist';

@@ -18,7 +18,7 @@ export class JugadorViewRouted implements OnInit {
   private route = inject(ActivatedRoute);
   //private snackBar = inject(MatSnackBar);
 
-  jugador = signal<IJugador | null>(null);
+  oJugador = signal<IJugador | null>(null);
   loading = signal(true);
   error = signal<string | null>(null);
   id_jugador = signal<number>(0);
